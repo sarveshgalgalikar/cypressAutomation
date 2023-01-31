@@ -1,0 +1,24 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarveshgalgalikar/cypressAutomation.git"
+  },
+  "author": "sarvesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarveshgalgalikar/cypressAutomation/issues"
+  },
+  "homepage": "https://github.com/sarveshgalgalikar/cypressAutomation#readme",
+  "devDependencies": {
+    "cypress": "^12.4.1"
+  }
+}
